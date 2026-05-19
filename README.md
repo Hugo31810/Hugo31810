@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hugo31810](https://github.com/Hugo31810)
 
-- 💬 Ask me about **Optimization, Metaheuristics, Python, Machine Learning, Data Science, and Neural Networks.**
+- 💬 Ask me about **Optimization, Metaheuristics, Natural Language Processing, Machine Learning, Data Science, and Deep Learning.**
 
 - 📫 How to reach me **hugosa2005salvador@gmail.com**
 
